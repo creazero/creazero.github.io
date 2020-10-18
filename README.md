@@ -10,7 +10,7 @@
 Архитектор должен проектировать план архитектуры системы в соответствии с рабочим графиком, используя требования заказчика и ПО PlantUML.
 
 ### Диаграмма классов
-![a](https://github.com/creazero/creazero.github.io/blob/main/lab1/class.png)
+![a](https://github.com/creazero/creazero.github.io/blob/main/lab1/class1.png)
 
 ### Диаграмма прецедентов
 ![a](https://github.com/creazero/creazero.github.io/blob/main/lab1/precedents.png)
