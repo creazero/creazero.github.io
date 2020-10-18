@@ -5,7 +5,7 @@
 ## Лабораторная работа №1
 Архитектор проектирует план архитектуры системы.
 
-![a](https://github.com/creazero/creazero.github.io/blob/main/lab1/mode.png)
+![a](https://github.com/creazero/creazero.github.io/blob/main/lab1/model.png)
 
 Архитектор должен проектировать план архитектуры системы в соответствии с рабочим графиком, используя требования заказчика и ПО PlantUML.
 
