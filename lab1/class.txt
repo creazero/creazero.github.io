@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Архитектор" as P {
+  PlantUML 
+  Архитектор (Требования заказчика, Рабочий график) -> План архитектуры системы
+}
+hide circle
+@enduml
