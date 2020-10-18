@@ -5,7 +5,7 @@
 ## Лабораторная работа №1
 Архитектор проектирует план архитектуры системы.
 
-![a](https://github.com/creazero/creazero.github.io/blob/master/lab1/model.png?raw=true)
+![a](https://github.com/creazero/creazero.github.io/blob/main/lab1/model.png)
 
 ## Лабораторная работа №2
 
