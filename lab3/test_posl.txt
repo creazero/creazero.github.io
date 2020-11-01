@@ -1,0 +1,13 @@
+@startuml
+actor ": Архитектор" as owner
+boundary "Confluence" as app
+entity "Данные" as data
+boundary "Confluence" as appmob
+actor ": Команда" as trainee
+owner -> app : Запрос
+app -> data : Обработка
+data -> appmob : Драфт
+appmob -> trainee : Данные драфта
+trainee -> appmob : Подтверждение
+appmob -> data : Обработка
+@enduml
